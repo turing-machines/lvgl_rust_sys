@@ -1,5 +1,5 @@
 [package]
-name = "lvgl_rust_sys"
+name = "lvgl_sys"
 version = "0.1.0"
 edition = "2021"
 
